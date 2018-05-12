@@ -1,0 +1,31 @@
+_repo: Fashionable-Philosophy-and-Other-Sketches_17120
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oliphant, Laurence
+    alias: Oliphant, Lawrence
+    birthdate: 1829
+    deathdate: 1888
+    gutenberg_agent_id: '6222'
+    url: http://www.gutenberg.org/2009/agents/6222
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Oliphant_%28author%29
+description: 'Fashionalbe philosophy -- The brigand''s bride : a tale of southern
+  Italy -- The sisters of Thibet -- Adolphus : a comedy of affinities.'
+gutenberg_issued: '2005-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17120'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- 19th century'
+- !lcc 'PR'
+tableOfContents: 'Fashionable philosophy -- The brigand''s bride: a tale of southern
+  Italy -- The sisters of Thibet -- Adolphus: a comedy of affinities.'
+title: Fashionable Philosophy, and Other Sketches
+url: http://www.gutenberg.org/ebooks/17120
